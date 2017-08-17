@@ -61,7 +61,7 @@
 #include <stdlib.h>
 #include "net/packetbuf.h"
 #include "dev/serial-line.h"
-#include "dev/i2c.h"
+#include "i2c.h"
 #include "sys/process.h"
 
 #define DEBUG DEBUG_PRINT
